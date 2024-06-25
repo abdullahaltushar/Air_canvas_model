@@ -28,8 +28,7 @@ Detect the landmarks by passing the RGB frame to the mediapipe hand detector.
 Detect the landmarks, find the forefinger coordinates and keep storing them in the array for successive frames.(Arrays for drawing points on canvas)
 
 Finally, draw the points stored in an array on the frames and canvas.
-<video width="949" controls>
-    <source src="https://github.com/abdullahaltushar/Air_canvas_model/blob/main/opencv_canvas_ml.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-</video>
+
+![Opencv Canvas](https://github.com/abdullahaltushar/Air_canvas_model/blob/main/opencv_canvas_ml.gif)
+
 
